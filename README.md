@@ -1,11 +1,8 @@
 # AWAERE-ENGINE
 
 # FAQ
- Where's the EXE?
-We provide a binary in release tab.
-
-Where are config files stored?
-Profiles are stored inside the base Fortnite directory under a folder named profiles.
+ Where's the EXE? 
+In your downloads section on your main drive.
 
 You can share profiles with friends by navigating to the configuration tab inside the cheat and selecting Export. This will copy all profile data to the clipboard which you can then paste to a friend.
 
